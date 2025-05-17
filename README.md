@@ -21,9 +21,6 @@ I'm Sachi, 🛠️ [**1x Engineer**](https://1x.engineer/) in progress.
 ![](https://nirzak-streak-stats.vercel.app/?user=SachiPatankar&theme=chartreuse-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SachiPatankar&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SachiPatankar&icon=0&color=0)](https://visitcount.itsvg.in)
