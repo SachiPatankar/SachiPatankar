@@ -1,6 +1,5 @@
 # 👋 Hey there,
-I'm Sachi, 🛠️ [**1x Engineer**](https://1x.engineer/) in progress.  
-<br>
+
 🎓 Computer Engineering student at PICT, Pune.  
 🧑‍💻 Full stack developer and DSA enthusiast.  
 ☕ Currently caffeinating my way through real-world projects.  
